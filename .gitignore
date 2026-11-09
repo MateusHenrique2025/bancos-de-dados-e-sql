@@ -1,1 +1,27 @@
-.vscode
+# ==============================================================================
+# ITEAM - Bancos de Dados e SQL (Controle de Liberação Progressiva - @professor)
+# ==============================================================================
+# Aulas futuras retidas (liberadas atualmente: Aula01 até Aula04)
+Aula05/
+Aula06/
+Aula07/
+Aula08/
+
+# Gabaritos e resoluções exclusivas do professor (NUNCA publicar antes da liberação)
+gabaritos/
+atividades/gabarito*
+**/gabarito*
+
+# Memória interna e instruções de IA do professor
+memories.md
+GEMINI.md
+history.md
+
+# Arquivos de sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
