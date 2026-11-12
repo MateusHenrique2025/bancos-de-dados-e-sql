@@ -10,3 +10,4 @@ Prazo final: **Domingo, 15/11/2026 até as 23:59** (via Fork + Pull Request, sem
 3. Faça commit apenas da sua pasta e abra um Pull Request no GitHub.
 
 Leia os detalhes completos em [`docs/projeto-integrador.md`](../docs/projeto-integrador.md).
+
