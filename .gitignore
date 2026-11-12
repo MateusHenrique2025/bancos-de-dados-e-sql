@@ -1,18 +1,16 @@
 # ==============================================================================
-# ITEAM - Bancos de Dados e SQL (Controle de Liberação Progressiva - @professor)
+# ITEAM - Bancos de Dados e SQL (Controle de Liberação - @professor)
 # ==============================================================================
-# Aulas futuras retidas (liberadas atualmente: Aula01 até Aula04)
+# Todas as aulas (Aula01 a Aula08) e gabaritos públicos liberados em 11/11/2026
 #Aula05/
 #Aula06/
-Aula07/
-Aula08/
+#Aula07/
+#Aula08/
+#gabaritos/
+#atividades/gabarito*
+#**/gabarito*
 
-# Gabaritos e resoluções exclusivas do professor (NUNCA publicar antes da liberação)
-gabaritos/
-atividades/gabarito*
-**/gabarito*
-
-# Memória interna e instruções de IA do professor
+# Memória interna e instruções de IA do professor (sempre protegidos)
 memories.md
 GEMINI.md
 history.md
